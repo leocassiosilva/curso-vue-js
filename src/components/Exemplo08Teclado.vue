@@ -1,0 +1,10 @@
+<script setup>
+
+    function mensagem() {
+        alert("Executando função!");
+    }
+</script>
+
+<template>
+    <input type="text" @keyup.enter="mensagem">
+</template>
