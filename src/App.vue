@@ -8,9 +8,10 @@
 // import Exemplo05 from "./components/Exemplo05Model.vue";
 // import Exemplo06 from "./components/Exemplo06Classe.vue";
 // import Exemplo07 from './components/Exemplo07Clique.vue';
-import Exemplo08 from './components/Exemplo08Teclado.vue';
+// import Exemplo08 from './components/Exemplo08Teclado.vue';
+import Exemplo09 from './components/Exemplo09Submissao.vue';
 </script>
 
 <template>
-  <Exemplo08></Exemplo08>
+  <Exemplo09></Exemplo09>
 </template>
